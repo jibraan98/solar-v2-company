@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/solar-v2-company/static/css/main.dd7edad5.css",
-    "main.js": "/solar-v2-company/static/js/main.c47af38b.js",
+    "main.css": "/solar-v2-company/static/css/main.60604fb7.css",
+    "main.js": "/solar-v2-company/static/js/main.524cfcdf.js",
+    "static/media/logo2.svg": "/solar-v2-company/static/media/logo2.726756ece2113101938bd4b611bfefa4.svg",
     "index.html": "/solar-v2-company/index.html",
-    "main.dd7edad5.css.map": "/solar-v2-company/static/css/main.dd7edad5.css.map",
-    "main.c47af38b.js.map": "/solar-v2-company/static/js/main.c47af38b.js.map"
+    "main.60604fb7.css.map": "/solar-v2-company/static/css/main.60604fb7.css.map",
+    "main.524cfcdf.js.map": "/solar-v2-company/static/js/main.524cfcdf.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd7edad5.css",
-    "static/js/main.c47af38b.js"
+    "static/css/main.60604fb7.css",
+    "static/js/main.524cfcdf.js"
   ]
 }
