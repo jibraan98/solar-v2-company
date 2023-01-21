@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/solar-v2-company/static/css/main.dd7edad5.css",
+    "main.js": "/solar-v2-company/static/js/main.c47af38b.js",
+    "index.html": "/solar-v2-company/index.html",
+    "main.dd7edad5.css.map": "/solar-v2-company/static/css/main.dd7edad5.css.map",
+    "main.c47af38b.js.map": "/solar-v2-company/static/js/main.c47af38b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd7edad5.css",
+    "static/js/main.c47af38b.js"
+  ]
+}
